@@ -1,0 +1,19 @@
+{
+  "name": "@kevinpqh/ng2-toasty",
+  "version": "0.0.1",
+  "description": "Angular toasty component",
+  "keywords": [],
+  "license": "MIT",
+  "author": "kevinpqh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinpqh/squeezebox.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^10.2.5",
+    "@angular/core": "^10.2.5"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
